@@ -1,2 +1,2 @@
 # AvarionSMP
-Official Application System Site Website of AvarionSMP
+Official Application System Site/Website of AvarionSMP
